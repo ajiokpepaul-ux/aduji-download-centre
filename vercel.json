@@ -3,8 +3,7 @@
   "redirects": [
     {
       "source": "/download",
-      "destination": "https://github.com/ajiokpepaul-ux/aduji-tv-launcher/actions/runs/45480790652/artifacts/14962555049
-",
+      "destination": "https://github.com/ajiokpepaul-ux/aduji-tv-launcher/releases/latest/download/aduji-tv-launcher.apk",
       "permanent": false
     }
   ]
