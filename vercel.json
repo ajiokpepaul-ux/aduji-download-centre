@@ -1,0 +1,10 @@
+
+{
+  "redirects": [
+    {
+      "source": "/download",
+      "destination": "https://github.com/ajiokpepaul-ux/aduji-tv-launcher/releases/latest/download/aduji-tv-launcher.apk",
+      "permanent": false
+    }
+  ]
+}
